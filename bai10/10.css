@@ -1,0 +1,12 @@
+div{
+    width: 150px;
+    height: 150px;
+}
+#_1{
+    background: olive;
+}
+#_2{
+    background: antiquewhite;
+    margin-top: 30px;
+    border: 5px solid green;
+}

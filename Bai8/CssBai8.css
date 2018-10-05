@@ -6,3 +6,13 @@
     width: 100px;
     height: 50px;
 }
+img{
+    width: 500px;
+    height: 500px;
+}
+p{
+    font-family: Arial;
+    font-size: 30px;;
+    z-index: 1;
+    padding-bottom: 100px;
+}

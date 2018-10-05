@@ -1,0 +1,26 @@
+body{
+    margin: 0px;
+    width: 1280px;
+}
+#header{
+    background: antiquewhite;
+    padding: 10px 25px;
+}
+#content{
+    background: olive;
+    width: 40%;
+    float: left;
+}
+#sidebar{
+    background: aqua;
+    width: 57%;
+    float: right;
+    padding: 1em;
+
+}
+#footer{
+    clear: both;
+    background: black;
+    color: white;
+    padding: 1em;
+}
