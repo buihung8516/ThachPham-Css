@@ -1,0 +1,8 @@
+div{
+    background: url("1.jpg"), url("2.jpg");
+    width:  2000px;
+    height: 1000px;
+    background-repeat: no-repeat;
+    background-position: bottom,left;
+
+}
